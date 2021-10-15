@@ -15,8 +15,8 @@ const Projects = (props) => {
         const bubbleClasses = "solid-circle-medium project-bubble " + (isProjectNumberEven ? "left-project-bubble" : "right-project-bubble");
         return(
             <div>
-                {isProjectNumberEven ? <div className="project-vl">{Util.getVerticalLine("white", "470px", "5px")}</div> : ""}
-                {isProjectNumberEven ? <div className="project-vl-even-dummy invisible">{Util.getVerticalLine("white", "470px", "5px")}</div> : ""}
+                {isProjectNumberEven ? <div className="project-vl">{Util.getVerticalLine("white", "520px", "5px")}</div> : ""}
+                {isProjectNumberEven ? <div className="project-vl-even-dummy invisible">{Util.getVerticalLine("white", "520px", "5px")}</div> : ""}
                 <div className="project-box" style={{float: isProjectNumberEven ? "right" : "left"}}>
                     <div>{project.name}</div>
                     <div>{project.description}</div>
@@ -28,8 +28,8 @@ const Projects = (props) => {
                     <div className={bubbleClasses}></div>
                     <span>{Util.getDummyLine("white", "100%", "2px")}</span>
                 </div>
-                {!isProjectNumberEven ? <div className="project-vl">{Util.getVerticalLine("white", "470px", "5px")}</div> : ""}
-                {!isProjectNumberEven ? <div className="project-vl-odd-dummy invisible">{Util.getVerticalLine("white", "470px", "5px")}</div> : ""}
+                {!isProjectNumberEven ? <div className="project-vl">{Util.getVerticalLine("white", "520px", "5px")}</div> : ""}
+                {!isProjectNumberEven ? <div className="project-vl-odd-dummy invisible">{Util.getVerticalLine("white", "520px", "5px")}</div> : ""}
                 {(isProjectNumberEven && isLastproject) ?? <div style={{marginBottom: "150px"}}></div>}
             </div>
         )
