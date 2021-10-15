@@ -52,6 +52,14 @@
     ],
     "experience": [
         {
+            "name": "Zomentum",
+            "duration": "September 2021 - Present",
+            "details": [
+                "Upskilled myself by learning scala and play framework.",
+                "Worked on integrations with 3rd party professional services automation."
+            ]
+        },
+        {
             "name": "JP Morgan Chase and Co.",
             "duration": "July 2018 - September 2021",
             "details": [
@@ -62,14 +70,6 @@
                 "Took initiatives on architectural design suggestions. Many of these suggestions were taken up as decisions by the architect team.",
                 "Got promoted to Associate Software Engineer.",
                 "Responsible for improving and deploying the applications used by the team. Led many production releases. Followed Agile methodology for efficient work."
-            ]
-        },
-        {
-            "name": "Zomentum",
-            "duration": "September 2021 - Present",
-            "details": [
-                "Upskilled myself by learning scala and play framework.",
-                "Worked on integrations with 3rd party professional services automation."
             ]
         }
     ],

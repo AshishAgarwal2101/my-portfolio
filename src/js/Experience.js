@@ -32,7 +32,7 @@ const Experience = (props) => {
                 })}
                 </div>
 
-                <div className={experienceNumberClasses}>{experienceNumber}</div>
+                {/* <div className={experienceNumberClasses}>{experienceNumber}</div> */}
             </div>
         )
     };
