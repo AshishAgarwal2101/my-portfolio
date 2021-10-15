@@ -16,6 +16,7 @@ const Header = (props) => {
                 <span><a href="#about">ABOUT ME</a></span>
                 <span><a href="#skills">SKILLS</a></span>
                 <span><a href="#projects">PROJECTS</a></span>
+                <span><a href="#experience">EXPERIENCE</a></span>
                 <span><a href="/downloadable/resume.pdf" target="_blank">RESUME</a></span>
             </div>
         </div>
