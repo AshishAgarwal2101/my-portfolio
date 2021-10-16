@@ -4,7 +4,7 @@
     "role": "Full Stack Developer",
     "linkedInUrl": "https://www.linkedin.com/in/ashish-agarwal-2101",
     "githubUrl": "https://github.com/AshishAgarwal2101",
-    "aboutDescription": "Hi there! Welcome to my page.  My name is Ashish Agarwal and I am a Full Stack Developer. I am currently working with Zomentum. I love coding and I love when I had to strach my head getting through a tough problem. \n\nIn my leisure time, I like cycling, going for a walk, or even watching anime.",
+    "aboutDescription": "Hi there! Welcome to my page.  My name is Ashish Agarwal, and I am a Full Stack Developer. I am currently working with Zomentum. I love coding, and I love scratching my head getting through a tricky problem.\n\nIn my leisure time, I like cycling, going for a walk, or even watching anime.",
     "skills": [
         {"name": "HTML & CSS", "percentage": 80},
         {"name": "Javascript & ReactJS", "percentage": 90},
@@ -20,33 +20,33 @@
     "projects": [
         {
             "name": "Kalpayita: A Machine Learning Approach to Interior Designing",
-            "description": "A voice driven tool to convert the voice or text to a relevant 3D scene in a simple human understandable form. The application would infer missing objects. It also has a scene modification option for changes to the existing scene.",
-            "working": "The interior designer has to speak out the description of the scene. For example, one coud speak, \"There is a cake on the table\". The application would then generate the desired 3D scene with the look and feel of an interior design.",
+            "description": "A voice-driven tool to convert the voice or text to a relevant 3D scene in a human understandable form. The application infers missing objects. It also has a scene modification option for changes to the existing scene.",
+            "working": "The interior designer has to speak out the description of the scene. For example, one could speak, \"There is a cake on the table\". The application would then generate the desired 3D scene with the look and feel of an interior design.",
             "link": "https://youtu.be/r8xzs9WOgz0",
             "paperPublicationLink": "http://ijsrd.com/Article.php?manuscript=IJSRDV6I30847"
         },
         {
             "name": "Sign Language Gesture Recognition",
-            "description": "A PC application for recognizing the hand gestures for Indian Sign Language through a live video. The UI also has an option to train the application for new hand signs. This application is helpful for common man to understand deaf people.",
+            "description": "A PC application for recognizing the hand gestures for Indian Sign Language through a live video. The UI also has an option to train the application for new hand signs. This application is helpful for an ordinary person to understand deaf people.",
             "working": "A camera should be connected to record a live video. The application would keep scanning for new gesture and displays it on the screen.",
             "link": "https://youtu.be/qSdMSDVd2Zw"
         },
         {
             "name": "Easy Cash",
-            "description": "Application to make online UPI payment simple by making an interactive payment system, and facilitating addition of multiple UPI accounts.",
-            "working": "User needs to first register using bank registered phone number by entering the OTP. User can then add the registered bank and create a UPI Pin, and enjoy simplified UPI payments to shops and friends. In addition, user gets a unique feature to add more than one profile for another registered bank account.",
+            "description": "Application to make online UPI payment simple by providing an interactive payment system, and facilitating the addition of multiple UPI accounts.",
+            "working": "The user needs to register using the bank's registered phone number by entering the OTP. Users can then add the registered bank, create a UPI pin, and enjoy simplified UPI payments to shops and friends. In addition, the user gets a unique feature to add more than one profile for another registered bank account.",
             "link": "https://youtu.be/Nwr_vF2uL4M"
         },
         {
             "name": "Smart Trauma Reliever (STAR) App",
-            "description": "Android Application that uses NLP and Machine Learning approaches to find crime violation types and report them. This is especially helpful as most people are not aware whether a given act is a crime.",
-            "working": "User simply needs to enter the description of the act that he/she believes to be a crime. If the act falls under any legal sections, it would be shown to the user and the user would directly get an option to report the crime.",
+            "description": "Android Application that uses NLP and Machine Learning approaches to find crime violation types and report them. This is especially helpful as most people are not aware of whether a given act is a crime.",
+            "working": "The user needs to enter the description of the act that they believe to be a crime. Then, if the act falls under any legal sections, it would be shown to the user, and they would directly get an option to report the crime.",
             "link": ""
         },
         {
             "name": "Safety App",
-            "description": "An app for emergencies. Shaking of phone will send danger message along with the location to selected contacts.",
-            "working": "When the app is installed for the first time, user needs complete a one of setup of adding emergency contacts. While in danger, user simply needs to shake the phone thrice, which would send a Danger text message to the emergency contacts along with the user's location.",
+            "description": "An app for emergencies. Shaking the phone will send a danger message along with the location to selected contacts.",
+            "working": "When the app gets installed for the first time, the user needs to complete a one-time setup of adding emergency contacts. Then, during danger, the user needs to shake the phone thrice, which would send a Danger text message to the emergency contacts and the user's location.",
             "link": ""
         }
     ],
