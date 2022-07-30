@@ -1,0 +1,3 @@
+aboutDescription:
+Welcome to my page. I am Ashish Agarwal, and I am a Full Stack Developer. 
+I love coding, and I love scratching my head getting through a tricky problem. In my leisure time, I like cycling, going for a walk, or even watching anime.

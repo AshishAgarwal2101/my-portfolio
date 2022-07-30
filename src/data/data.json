@@ -4,7 +4,7 @@
     "role": "Full Stack Developer",
     "linkedInUrl": "https://www.linkedin.com/in/ashish-agarwal-2101",
     "githubUrl": "https://github.com/AshishAgarwal2101",
-    "aboutDescription": "Hi there! Welcome to my page.  My name is Ashish Agarwal, and I am a Full Stack Developer. I am currently working with Zomentum. I love coding, and I love scratching my head getting through a tricky problem.\n\nIn my leisure time, I like cycling, going for a walk, or even watching anime.",
+    "aboutDescription": "Welcome to my page. I am <b>Ashish Agarwal</b>. I am currently pursuing my Masters in Computer Science at San Jose State University. I am actively <b>looking for Summer'23 internship opportunities for SWE/SDE roles</b>.\n\nI am open to work in hybrid as well as in-person setting. My job preference is simply to work with an employer who values their employees.",
     "skills": [
         {"name": "HTML & CSS", "percentage": 80},
         {"name": "Javascript & ReactJS", "percentage": 90},
@@ -54,10 +54,12 @@
     "experience": [
         {
             "name": "Zomentum",
-            "duration": "September 2021 - Present",
+            "duration": "September 2021 - May 2022",
             "details": [
                 "Upskilled myself by learning scala and play framework.",
-                "Worked on integrations with 3rd party professional services automation."
+                "Worked on integrations with 3rd party professional services automation.",
+                "Set up scheduled jobs in AWS lambda using events generated in AWS Kinesis.",
+                "Quick turnarounds on customer bugs."
             ]
         },
         {

@@ -27,7 +27,7 @@ const About = (props) => {
 
                 <div className="about-block-right">
                     <img src="/images/photo.jpg" className="profile-photo"/>
-                    <div className="about-description">{data.aboutDescription}</div>
+                    <div className="about-description" dangerouslySetInnerHTML={{ __html: data.aboutDescription }}></div>
                     {Util.getDummyLine("#cccccc", "50px")}
                 </div>
 
