@@ -56,23 +56,23 @@
             "name": "Zomentum",
             "duration": "September 2021 - May 2022",
             "details": [
-                "Upskilled myself by learning scala and play framework.",
-                "Worked on integrations with 3rd party professional services automation.",
-                "Set up scheduled jobs in AWS lambda using events generated in AWS Kinesis.",
-                "Quick turnarounds on customer bugs."
+                "Designed and improved Web APIs using play web framework with scala and helped application expose REST APIs.",
+                "Delivered and owned features for autotask integrations system for Zomentum, by leveraging scheduled jobs and event-driven architectural system, benefiting customers sync data to and from Autotask.",
+                "Leveraged Web Sockets to get latest purchase orders tracking updates to set up scheduled jobs in AWS lambda using events generated in AWS Kinesis. This helped customers track purchase orders.",
+                "Analyzed and resolved customer bugs. Over a span of 4 months, weekly customer bugs were drastically reduced and technical team received positive reviews from customers."
             ]
         },
         {
             "name": "JP Morgan Chase and Co.",
-            "duration": "July 2018 - September 2021",
+            "duration": "July 2018 - September 2021 (Promoted from Analyst to Associate)",
             "details": [
-                "Worked in both frontend (particularly Javascript and React) and backend (particularly Java with Spring Boot).",
-                "Worked on maintenance and development on elastic search. It involved full indexing and delta indexing jobs, retrieval queries.",
-                "Created kafka clusters for multiple consumers, and consumed from third-party, all as kafka as a messaging platform.",
-                "Initiated and worked towards the migration of application from one front-end architecture to another. Built complete front-end application from scratch while using necessary tools and packages.",
-                "Took initiatives on architectural design suggestions. Many of these suggestions were taken up as decisions by the architect team.",
-                "Got promoted to Associate Software Engineer.",
-                "Responsible for improving and deploying the applications used by the team. Led many production releases. Followed Agile methodology for efficient work."
+                "Developed and maintained elastic search server to fulfil full indexing jobs, delta indexing jobs and retrieval queries. Search result time dropped from 11 seconds to 1 second.",
+                "Created REST Web APIs using Java with Spring Boot and GraphQL to expose banker specific and related contact information consumed by user-facing systems.",
+                "Owned and delivered a kafka application to consume data from third-party kafka channel and write to multiple other channels, all as kafka as a messaging platform. Teams benefitted by retrieving employee and customer data near real-time.",
+                "Initiated and worked towards migration of a react application from flux to redux for better application state management and built a complete front-end application from scratch using necessary tools and packages.",
+                "Leveraged test-driven developmental approach for applications using Mockito and Jest, thereby facilitating cleaner application code and better standards.",
+                "Took initiatives on architectural design suggestions. These suggestions helped team cope up with fast-paced development environment after being acknowledged by architect team.",
+                "Led production releases of at least 12 applications, followed agile methodology to facilitate continuous delivery and integration."
             ]
         }
     ],
