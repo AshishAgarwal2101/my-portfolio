@@ -4,7 +4,7 @@
     "role": "Full Stack Developer",
     "linkedInUrl": "https://www.linkedin.com/in/ashish-agarwal-2101",
     "githubUrl": "https://github.com/AshishAgarwal2101",
-    "aboutDescription": "Welcome to my page. I am <b>Ashish Agarwal</b>. I am currently pursuing my Masters in Computer Science at San Jose State University. I am actively <b>looking for Summer'23 internship opportunities for SWE/SDE roles</b>.\n\nI am open to work in hybrid as well as in-person setting. My job preference is simply to work with an employer who values their employees.",
+    "aboutDescription": "Welcome to my page. I am <b>Ashish Agarwal</b>. I am currently pursuing my Master's in Computer Science at San Jose State University. I am actively <b>looking for Full Time job opportunities for SWE/SDE roles</b>. I will graduate on May 2024 and start working soon after.\n\nI am open to work in hybrid as well as in-person setting. My job preference is simply to work with an employer who values their employees.",
     "skills": [
         {"name": "HTML & CSS", "percentage": 80},
         {"name": "Javascript & ReactJS", "percentage": 90},
@@ -52,6 +52,13 @@
         }
     ],
     "experience": [
+        {
+            "name": "PayPal",
+            "duration": "May 2023 - August 2024",
+            "details": [
+                "Built a batch job with Apache Spark that ran on GCP DataProc cluster to pull profile screening data from HDFS and BigQuery, and extracted and displayed insights data using GCP Looker, which reduced the amount of analyst effort and time."
+            ]
+        },
         {
             "name": "Zomentum",
             "duration": "September 2021 - May 2022",
