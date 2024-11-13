@@ -91,7 +91,7 @@
             "details": [
                 "Identified and corrected upstream-settlement schema discrepancies, reducing transaction failures and enhancing data accuracy.",
                 "Engineered a developer tool for searching Control-M jobs by parameters, cutting issue resolution time by 50% in batch-heavy projects and identifying outdated or undocumented jobs.",
-                "Devised a solution to automate vendor transaction responses, eliminating manual reconciliation, reducing accounting workload by 40%, and increasing operational efficiency.",
+                "Devised a solution to automate vendor transaction responses, eliminating manual reconciliation, lowering accounting workload by 40%, and increasing operational efficiency.",
                 "Implemented a solution to include missing upstream fields in merchant transaction processing, improving vendor settlements accuracy and reducing transaction fees by 20%.",
                 "Addressed 6 batch job failures and bugs, and contributed to resolving a major payment settlement incident impacting 10+ merchants."
             ]
@@ -101,8 +101,8 @@
             "role": "Software Engineering Intern",
             "duration": "May 2023 - August 2024",
             "details": [
-                "Built a batch job with Apache Spark that ran on GCP DataProc cluster to pull profile over 25M daily screening data.",
-                "Leveraged HDFS and BigQuery to extract and display insights using GCP Looker, which reduced the amount of analyst effort."
+                "Built an Apache Spark batch job on GCP DataProc cluster to pull over 25M daily screening profile data.",
+                "Leveraged HDFS and BigQuery to extract and display insights through GCP Looker, reducing analyst effort."
             ]
         },
         {
@@ -110,10 +110,10 @@
             "role": "Software Engineer",
             "duration": "September 2021 - May 2022",
             "details": [
-                "Designed and improved Web APIs with Scala using Play framework, enabling efficient RESTful interactions.",
-                "Delivered and owned autotask integration features using scheduled jobs and event-driven architectural system, enabling seamless data sync for over 8000 customers.",
-                "Automated purchase order tracking with WebSockets and AWS Kinesis, using scheduled jobs for detailed order data, reducing manual checks by 50%.",
-                "Analyzed and resolved customer bugs, reducing weekly issues by 70% over 4 months and boosting customer satisfaction by 25%."
+                "Designed and improved Web APIs with Scala the Play framework, enabling efficient RESTful interactions.",
+                "Delivered and owned Autotask integration features using scheduled jobs and event-driven architectural system, enabling seamless data sync for over 8000 customers.",
+                "Automated purchase order tracking with WebSockets and AWS Kinesis, using scheduled jobs for detailed order data, cutting manual checks by 50%.",
+                "Analyzed and resolved customer bugs, decreasing weekly issues by 70% over 4 months and boosting customer satisfaction by 25%."
             ]
         },
         {
@@ -122,11 +122,11 @@
             "duration": "July 2018 - September 2021 (Promoted from Analyst to Associate)",
             "details": [
                 "Developed and maintained Elasticsearch server for indexing jobs and retrieval queries. Search time dropped from 11 to 1 second.",
-                "Created REST Web APIs with Java, Spring Boot and GraphQL, exposing banker-specific and contact information to enable near real-time information retrieval, decreasing data lookup time by 70%.",
+                "Created REST Web APIs with Java, Spring Boot and GraphQL, exposing banker-specific and contact information for near real-time information retrieval, decreasing data lookup time by 70%.",
                 "Owned and delivered an end-to-end Kafka based platform, achieving near real-time employee and customer data retrieval.",
-                "Led the migration of a react application from flux to redux, improving state management and reducing application bugs by 40%.",
-                "Built and maintained over 4 frontend applications from scratch using ReactJS and Redux, leveraging essential tools and packages.",
-                "Initiated architectural design recommendations, which accelerated development by 30% and ensured rapid adaptation with fast-paced environment.",
+                "Led the migration of a react application from flux to redux, improving state management and lowering application bugs by 40%.",
+                "Built and maintained over 4 frontend applications from scratch in ReactJS and Redux, leveraging essential tools and packages.",
+                "Initiated architectural design recommendations, accelerating development by 30% and ensuring rapid adaptation with fast-paced environment.",
                 "Led production releases of at least 12 applications, adhering to Agile methodology to facilitate continuous integration and delivery."
             ]
         }
