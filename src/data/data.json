@@ -4,82 +4,130 @@
     "role": "Full Stack Developer",
     "linkedInUrl": "https://www.linkedin.com/in/ashish-agarwal-2101",
     "githubUrl": "https://github.com/AshishAgarwal2101",
-    "aboutDescription": "Welcome to my page. I am <b>Ashish Agarwal</b>. I am currently pursuing my Master's in Computer Science at San Jose State University. I am actively <b>looking for Full Time job opportunities for SWE/SDE roles</b>. I will graduate on May 2024 and start working soon after.\n\nI am open to work in hybrid as well as in-person setting. My job preference is simply to work with an employer who values their employees.",
+    "aboutDescription": "Welcome to my page. I am <b>Ashish Agarwal</b>. I am currently working as a Software Engineer at PayPal. I have completed my master's in Computer Science from San Jose State University. I am actively <b>looking for Full-Time job opportunities for SWE/SDE roles</b>. \n\nI am open to work in hybrid as well as in-person setting. My job preference is simply to work with an employer who values their employees.",
     "skills": [
-        {"name": "HTML & CSS", "percentage": 80},
-        {"name": "Javascript & ReactJS", "percentage": 90},
         {"name": "Java", "percentage": 90},
         {"name": "Scala", "percentage": 72},
-        {"name": "C", "percentage": 65},
         {"name": "Spring Boot", "percentage": 85},
-        {"name": "Kafka", "percentage": 75},
+        {"name": "NodeJS", "percentage": 80},
+        {"name": "Distributed Systems and System Design", "percentage": 88},
+        {"name": "HTML & CSS", "percentage": 80},
+        {"name": "Javascript & ReactJS", "percentage": 90},
+        {"name": "C", "percentage": 65},
+        {"name": "Kafka", "percentage": 78},
         {"name": "Elastic Search", "percentage": 81},
+        {"name": "Spark", "percentage": 75},
         {"name": "Android Application Development", "percentage": 78},
-        {"name": "SQL", "percentage": 70},
-        {"name": "MongoDB", "percentage": 60}
+        {"name": "Docker", "percentage": 70}, 
+        {"name": "SQL", "percentage": 81},
+        {"name": "MongoDB", "percentage": 74},
+        {"name": "Langchain", "percentage": 65},
+        {"name": "LLM Modeling", "percentage": 68}
     ],
     "projects": [
+        {
+            "name": "WeHeal",
+            "description": "An AI-powered companion for counsellors and therapists.",
+            "working": "It streamlines counselors' and therapists' workflows by efficiently summarizing patient case files and providing tailored recommendations derived from past and ongoing interactions. By retaining past context, WeHeal enables professionals to better support their clients on their journey towards healing and growth.",
+            "link": "https://youtu.be/1KA1iihK3-4?si=opwNrlgGlQ5sdTl1",
+            "github": "https://github.com/AshishAgarwal2101/WeHeal"
+        },
+        {
+            "name": "User Productivity Plugin",
+            "description": "A chrome plugin for user productivity by allowing users to set daily goals.",
+            "working": "Built with JavaScript and Chrome APIs, this extension runs background scripts to monitor time spent on each website and track cumulative daily usage. When a predefined time limit is exceeded, the user receives an alert to help manage screen time effectively.",
+            "link": "",
+            "github": "https://github.com/AshishAgarwal2101/user-productivity-plugin"
+        },
+        {
+            "name": "Distributed Hash Table",
+            "description": "A distributed hash table for key-value pair storage and retrieval.",
+            "working": "Uses the Chord protocol to coordinate among nodes in a distributed setup to store key-value pairs. Utilizes finger tables for tracking nodes and their associated keys, supporting fault tolerance and automatic key redistribution.",
+            "link": "",
+            "github": "https://github.com/AshishAgarwal2101/distributed-hash-table"
+        },
         {
             "name": "Kalpayita: A Machine Learning Approach to Interior Designing",
             "description": "A voice-driven tool to convert the voice or text to a relevant 3D scene in a human understandable form. The application infers missing objects. It also has a scene modification option for changes to the existing scene.",
             "working": "The interior designer has to speak out the description of the scene. For example, one could speak, \"There is a cake on the table\". The application would then generate the desired 3D scene with the look and feel of an interior design.",
             "link": "https://youtu.be/r8xzs9WOgz0",
+            "github": "https://github.com/AshishAgarwal2101/Kalpayita-A-Machine-Learning-Approach-to-Interior-Designing",
             "paperPublicationLink": "http://ijsrd.com/Article.php?manuscript=IJSRDV6I30847"
         },
         {
             "name": "Sign Language Gesture Recognition",
             "description": "A PC application for recognizing the hand gestures for Indian Sign Language through a live video. The UI also has an option to train the application for new hand signs. This application is helpful for an ordinary person to understand deaf people.",
             "working": "A camera should be connected to record a live video. The application would keep scanning for new gesture and displays it on the screen.",
-            "link": "https://youtu.be/qSdMSDVd2Zw"
+            "link": "https://youtu.be/qSdMSDVd2Zw",
+            "github": "https://github.com/AshishAgarwal2101/IndianSignLanguageGestureRecognition"
         },
         {
             "name": "Easy Cash",
             "description": "Application to make online UPI payment simple by providing an interactive payment system, and facilitating the addition of multiple UPI accounts.",
             "working": "The user needs to register using the bank's registered phone number by entering the OTP. Users can then add the registered bank, create a UPI pin, and enjoy simplified UPI payments to shops and friends. In addition, the user gets a unique feature to add more than one profile for another registered bank account.",
-            "link": "https://youtu.be/Nwr_vF2uL4M"
+            "link": "https://youtu.be/Nwr_vF2uL4M",
+            "github": "https://github.com/AshishAgarwal2101/Easy-Cash"
         },
         {
             "name": "Smart Trauma Reliever (STAR) App",
             "description": "Android Application that uses NLP and Machine Learning approaches to find crime violation types and report them. This is especially helpful as most people are not aware of whether a given act is a crime.",
             "working": "The user needs to enter the description of the act that they believe to be a crime. Then, if the act falls under any legal sections, it would be shown to the user, and they would directly get an option to report the crime.",
-            "link": ""
+            "link": "",
+            "github": ""
         },
         {
             "name": "Safety App",
             "description": "An app for emergencies. Shaking the phone will send a danger message along with the location to selected contacts.",
             "working": "When the app gets installed for the first time, the user needs to complete a one-time setup of adding emergency contacts. Then, during danger, the user needs to shake the phone thrice, which would send a Danger text message to the emergency contacts and the user's location.",
-            "link": ""
+            "link": "",
+            "github": "https://github.com/AshishAgarwal2101/Safety-App"
         }
     ],
     "experience": [
         {
             "name": "PayPal",
+            "role": "Software Engineer 2",
+            "duration": "July 2023 - Present",
+            "details": [
+                "Identified and corrected upstream-settlement schema discrepancies, reducing transaction failures and enhancing data accuracy.",
+                "Engineered a developer tool for searching Control-M jobs by parameters, cutting issue resolution time by 50% in batch-heavy projects and identifying outdated or undocumented jobs.",
+                "Devised a solution to automate vendor transaction responses, eliminating manual reconciliation, reducing accounting workload by 40%, and increasing operational efficiency.",
+                "Implemented a solution to include missing upstream fields in merchant transaction processing, improving vendor settlements accuracy and reducing transaction fees by 20%.",
+                "Addressed 6 batch job failures and bugs, and contributed to resolving a major payment settlement incident impacting 10+ merchants."
+            ]
+        },
+        {
+            "name": "PayPal",
+            "role": "Software Engineering Intern",
             "duration": "May 2023 - August 2024",
             "details": [
-                "Built a batch job with Apache Spark that ran on GCP DataProc cluster to pull profile screening data from HDFS and BigQuery, and extracted and displayed insights data using GCP Looker, which reduced the amount of analyst effort and time."
+                "Built a batch job with Apache Spark that ran on GCP DataProc cluster to pull profile over 25M daily screening data.",
+                "Leveraged HDFS and BigQuery to extract and display insights using GCP Looker, which reduced the amount of analyst effort."
             ]
         },
         {
             "name": "Zomentum",
+            "role": "Software Engineer",
             "duration": "September 2021 - May 2022",
             "details": [
-                "Designed and improved Web APIs using play web framework with scala and helped application expose REST APIs.",
-                "Delivered and owned features for autotask integrations system for Zomentum, by leveraging scheduled jobs and event-driven architectural system, benefiting customers sync data to and from Autotask.",
-                "Leveraged Web Sockets to get latest purchase orders tracking updates to set up scheduled jobs in AWS lambda using events generated in AWS Kinesis. This helped customers track purchase orders.",
-                "Analyzed and resolved customer bugs. Over a span of 4 months, weekly customer bugs were drastically reduced and technical team received positive reviews from customers."
+                "Designed and improved Web APIs with Scala using Play framework, enabling efficient RESTful interactions.",
+                "Delivered and owned autotask integration features using scheduled jobs and event-driven architectural system, enabling seamless data sync for over 8000 customers.",
+                "Automated purchase order tracking with WebSockets and AWS Kinesis, using scheduled jobs for detailed order data, reducing manual checks by 50%.",
+                "Analyzed and resolved customer bugs, reducing weekly issues by 70% over 4 months and boosting customer satisfaction by 25%."
             ]
         },
         {
             "name": "JP Morgan Chase and Co.",
+            "role": "Software Engineer",
             "duration": "July 2018 - September 2021 (Promoted from Analyst to Associate)",
             "details": [
-                "Developed and maintained elastic search server to fulfil full indexing jobs, delta indexing jobs and retrieval queries. Search result time dropped from 11 seconds to 1 second.",
-                "Created REST Web APIs using Java with Spring Boot and GraphQL to expose banker specific and related contact information consumed by user-facing systems.",
-                "Owned and delivered a kafka application to consume data from third-party kafka channel and write to multiple other channels, all as kafka as a messaging platform. Teams benefitted by retrieving employee and customer data near real-time.",
-                "Initiated and worked towards migration of a react application from flux to redux for better application state management and built a complete front-end application from scratch using necessary tools and packages.",
-                "Leveraged test-driven developmental approach for applications using Mockito and Jest, thereby facilitating cleaner application code and better standards.",
-                "Took initiatives on architectural design suggestions. These suggestions helped team cope up with fast-paced development environment after being acknowledged by architect team.",
-                "Led production releases of at least 12 applications, followed agile methodology to facilitate continuous delivery and integration."
+                "Developed and maintained Elasticsearch server for indexing jobs and retrieval queries. Search time dropped from 11 to 1 second.",
+                "Created REST Web APIs with Java, Spring Boot and GraphQL, exposing banker-specific and contact information to enable near real-time information retrieval, decreasing data lookup time by 70%.",
+                "Owned and delivered an end-to-end Kafka based platform, achieving near real-time employee and customer data retrieval.",
+                "Led the migration of a react application from flux to redux, improving state management and reducing application bugs by 40%.",
+                "Built and maintained over 4 frontend applications from scratch using ReactJS and Redux, leveraging essential tools and packages.",
+                "Initiated architectural design recommendations, which accelerated development by 30% and ensured rapid adaptation with fast-paced environment.",
+                "Led production releases of at least 12 applications, adhering to Agile methodology to facilitate continuous integration and delivery."
             ]
         }
     ],

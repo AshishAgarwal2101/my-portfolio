@@ -20,6 +20,7 @@ const Experience = (props) => {
         return(
             <div className="single-experience" style={{float: isExperienceNumberEven ? "right" : "left"}}>
                 <div className="single-experience-header" style={{marginBottom: "10px"}}>{singleExperience.name}</div>
+                <div style={{fontSize: "20px", marginBottom: "10px"}}>{singleExperience.role}</div>
                 <div>({singleExperience.duration})</div>
                 <div className="experience-detail">
                 {singleExperience.details.map((experienceDetail) => {
