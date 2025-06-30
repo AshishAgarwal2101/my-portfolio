@@ -40,18 +40,19 @@
     ],
     "projects": [
         {
-            "name": "WeHeal",
-            "description": "An AI-powered companion for counsellors and therapists.",
-            "working": "It streamlines counselors' and therapists' workflows by efficiently summarizing patient case files and providing tailored recommendations derived from past and ongoing interactions. By retaining past context, WeHeal enables professionals to better support their clients on their journey towards healing and growth.",
-            "link": "https://youtu.be/1KA1iihK3-4?si=opwNrlgGlQ5sdTl1",
-            "github": "https://github.com/AshishAgarwal2101/WeHeal"
-        },
-        {
-            "name": "User Productivity Plugin",
+            "name": "MindfulTabs: User Productivity Plugin",
             "description": "A chrome plugin for user productivity by allowing users to set daily goals.",
             "working": "Built with JavaScript and Chrome APIs, this extension runs background scripts to monitor time spent on each website and track cumulative daily usage. When a predefined time limit is exceeded, the user receives an alert to help manage screen time effectively.",
             "link": "",
-            "github": "https://github.com/AshishAgarwal2101/user-productivity-plugin"
+            "github": "https://github.com/AshishAgarwal2101/user-productivity-plugin",
+            "releasedArtifact": "https://chromewebstore.google.com/detail/mindfultabs/eiemehhfmlbbbpgbenebamojglgecejl"
+        },
+        {
+            "name": "Crowdfunding Blockchain",
+            "description": "A decentralized crowdfunding platform on Ethereum using Web3 and MetaMask.",
+            "working": "Users create, fund, and vote on campaigns via smart contracts. All transactions and campaign management are handled securely on the blockchain.",
+            "link": "",
+            "github": "https://github.com/AshishAgarwal2101/crowdfunding-blockchain"
         },
         {
             "name": "Distributed Hash Table",
@@ -59,6 +60,13 @@
             "working": "Uses the Chord protocol to coordinate among nodes in a distributed setup to store key-value pairs. Utilizes finger tables for tracking nodes and their associated keys, supporting fault tolerance and automatic key redistribution.",
             "link": "",
             "github": "https://github.com/AshishAgarwal2101/distributed-hash-table"
+        },
+        {
+            "name": "WeHeal",
+            "description": "An AI-powered companion for counsellors and therapists.",
+            "working": "It streamlines counselors' and therapists' workflows by efficiently summarizing patient case files and providing tailored recommendations derived from past and ongoing interactions. By retaining past context, WeHeal enables professionals to better support their clients on their journey towards healing and growth.",
+            "link": "https://youtu.be/1KA1iihK3-4?si=opwNrlgGlQ5sdTl1",
+            "github": "https://github.com/AshishAgarwal2101/WeHeal"
         },
         {
             "name": "Kalpayita: A Machine Learning Approach to Interior Designing",
